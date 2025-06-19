@@ -2,8 +2,7 @@
 
 📚Computer Science student at Stevens Institute of Technology</br>
 ⚒️Create projects of any kind(I'm intereseted in almost everything tech)</br>
-🗣️Current languages,frameworks,tech: Python,Java,HTML,CSS,SQL,PostgreSQL,SpringBoot</br>
-
+📺Love watching anime, hit me up for recs! </br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/alvaro-izquierdo1) 
 
