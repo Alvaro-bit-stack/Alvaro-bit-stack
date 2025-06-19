@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alvaro-bit-stack
+- 👋 Hi, I’m Alvaro 
 - 👀 I’m interested in engaging in digital sorcery with intricate spells of logic and syntax, conjuring solutions from the ether of ones and zeroes.(C0DING basically) :]
 - 🌱 I’m currently learning Pythonnn 🐍
 - 💞️ I’m looking to collaborate on any sidddeee projecctss
